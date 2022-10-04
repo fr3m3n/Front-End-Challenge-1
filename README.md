@@ -60,7 +60,7 @@
 
 
 Go to: 
-[MANAGE](http://stellinelab.com/manage/root/index.html)
+[GitHub Pages](https://fr3m3n.github.io/Front-End-Challenge-1/)
 
 * Right-click on a webpage, then `Inspect`.
 
