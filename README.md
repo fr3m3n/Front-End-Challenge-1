@@ -53,14 +53,12 @@
 > - *Images, icons, fonts, background.*
 
 
-[FIGMA](https://www.figma.com/file/iII0s16x1QBl77oSuyXRrg/Frontend-1-Septiembre-22?node-id=0%3A1)
-
 
 
 
 
 Go to: 
-[GitHub Pages](https://fr3m3n.github.io/Front-End-Challenge-1/)
+[GitHub Pages](https://fr3m3n.github.io/f3-challenge/)
 
 * Right-click on a webpage, then `Inspect`.
 
